@@ -32,7 +32,7 @@ $result = mysqli_query($koneksi, "SELECT
         <th>Satuan</th>
         <th>Tipe</th>
         <th>Gudang</th>
-        <th>Update</th>
+        <th>Action</th>
     </tr>
     <?php 
     $no = 1; 
